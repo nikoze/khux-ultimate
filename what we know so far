@@ -1,0 +1,17 @@
+API: api-s.sp.kingdomhearts.com
+Japanese API: http://api.sp.kingdomhearts.jp
+Some requests can be sent without authorization, otherwise you need a session cookie/http token
+
+Chat servers: f.cc001.sqex-chat.jp, f.uc001.sqex-chat.jp
+
+Cache server(for images): cache.sqex-bridge.jp
+Example link for cache server: http://cache.sqex-bridge.jp/img/9lyUN7o2US
+
+Game files:
+Size of game files is about 1-3GB
+Files are encrypted using .jpg .png and mp4 formats
+
+Other stuff:
+Servers use Nginx, Varnish, Akamai, Fastly
+Varnish is only available for BSD, Linux and Unix
+Servers might use Amazon Web Services (which is bad btw)
